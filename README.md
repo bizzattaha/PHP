@@ -1,16 +1,28 @@
-# PHP ile Yönetim Paneli Yapımı
+# Merhaba, Ben Bilal Karabulut 👋
 
-Mehmet Selçuk Batal Youtube adresinde bulunan PHP ile Sıfırdan Yönetim Panelli Web Sitesi Yapımı konulu eğitim videosunun (https://youtu.be/mtetqOabBI0) Başlangıç ve Bitiş dosyalarını burada bulabilirsiniz.
+Ben İstinye Üniversitesi Bilgisayar Programcılığı öğrencisiyim ve burada kendi projelerimi ve eğitim gördüğüm staj yerlerinde çalıştığım projeleri paylaşıyorum. 
 
-index.php dosyası PHP kodu entegre edilmemiş ve başlangıç tasarım dosyasıdır.
-cozum_index.php ve cozum_email.php dosyaları PHP kodları entegre edilmiş ve tamamlanmış dosyalardır.
+## Hakkımda
 
-Uygulamayı yapmak için https://youtu.be/mtetqOabBI0 adresinde bulunan video ile birlikte index.php dosyasını ve diğer klasörlerde (img, css, js) bulunan dosyaları kullanarak kendi uygulamanızı oluşturabilirsiniz.
+- 📚 İstinye Üniversitesi'nde Bilgisayar Programcılığı okuyorum.
+- 💼 Staj yaptığım yerlerdeki projeler ve çalışmaları burada paylaşıyorum.
+- 🌱 Sürekli kendimi geliştirmek ve yeni teknolojilere hakim olmak için çaba sarf ediyorum.
 
-Eğer uygulamayı yaparken sorunlarla karşılaşırsanız, size yardımcı olması amacıyla cozum_ ile başlayan dosyaları ve yonetim klasörünü inceleyebilirsiniz.
+## İletişim
 
-Uygulamanın tasarım halini görüntülemek için https://phpyonetimpaneli.herokuapp.com adresini ziyaret ediniz.
+Benimle aşağıdaki platformlardan iletişime geçebilirsiniz:
 
-Faydalı olması dileğiyle...
+- GitHub: [[GitHub/bizzattaha](GitHub-linki)]
+- LinkedIn: [[LinkedIn/BilalKarabulut](https://www.linkedin.com/in/bilalkarabulut/)]
+- E-posta: [bizzattaha@gmail.com](mailto:bizzattaha@gmail.com)]
 
-Mehmet Selçuk Batal
+## Teşekkürler
+
+Profilimi ziyaret ettiğiniz için teşekkür ederim! Daha fazla projemi incelemek ve iletişime geçmek için lütfen yukarıdaki bilgileri kullanın.
+
+## 📊 GitHub Stats:
+<p align="left"> <img src= "https://komarev.com/ghpvc/?username=bizzattaha&label=Profile%20views&color=0e75b6&style=flat" alt="bizzattaha" /> </p>
+
+![](https://github-readme-stats.vercel.app/api?username=bizzattaha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=bizzattaha&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bizzattaha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
